@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Home</title>
+    <link>http://lisemoxolll.dk/kea/portfolio/portfolio/</link>
+    <description>Recent content in Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2018 09:21:38 +0100</lastBuildDate>
+    
+	<atom:link href="http://lisemoxolll.dk/kea/portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Case2</title>
+      <link>http://lisemoxolll.dk/kea/portfolio/portfolio/case2/</link>
+      <pubDate>Tue, 30 Jan 2018 09:22:10 +0100</pubDate>
+      
+      <guid>http://lisemoxolll.dk/kea/portfolio/portfolio/case2/</guid>
+      <description>[</description>
+    </item>
+    
+    <item>
+      <title>Case2</title>
+      <link>http://lisemoxolll.dk/kea/portfolio/portfolio/case3/</link>
+      <pubDate>Tue, 30 Jan 2018 09:22:10 +0100</pubDate>
+      
+      <guid>http://lisemoxolll.dk/kea/portfolio/portfolio/case3/</guid>
+      <description>[</description>
+    </item>
+    
+    <item>
+      <title>Case2</title>
+      <link>http://lisemoxolll.dk/kea/portfolio/portfolio/case4/</link>
+      <pubDate>Tue, 30 Jan 2018 09:22:10 +0100</pubDate>
+      
+      <guid>http://lisemoxolll.dk/kea/portfolio/portfolio/case4/</guid>
+      <description>[</description>
+    </item>
+    
+    <item>
+      <title>Case2</title>
+      <link>http://lisemoxolll.dk/kea/portfolio/portfolio/case5/</link>
+      <pubDate>Tue, 30 Jan 2018 09:22:10 +0100</pubDate>
+      
+      <guid>http://lisemoxolll.dk/kea/portfolio/portfolio/case5/</guid>
+      <description>[</description>
+    </item>
+    
+    <item>
+      <title>Case2</title>
+      <link>http://lisemoxolll.dk/kea/portfolio/portfolio/case6/</link>
+      <pubDate>Tue, 30 Jan 2018 09:22:10 +0100</pubDate>
+      
+      <guid>http://lisemoxolll.dk/kea/portfolio/portfolio/case6/</guid>
+      <description>[</description>
+    </item>
+    
+    <item>
+      <title>Case1</title>
+      <link>http://lisemoxolll.dk/kea/portfolio/portfolio/case1/</link>
+      <pubDate>Tue, 30 Jan 2018 09:21:59 +0100</pubDate>
+      
+      <guid>http://lisemoxolll.dk/kea/portfolio/portfolio/case1/</guid>
+      <description>[</description>
+    </item>
+    
+  </channel>
+</rss>

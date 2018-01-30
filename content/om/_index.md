@@ -1,14 +1,16 @@
 ---
 title: "Om"
 date: 2018-01-30T08:56:52+01:00
-draft: true
+
 ---
 
-## Jeg er 25 og min store passion er at tage billeder af store og små beginvenehder.
+## Jeg er amatørfotograf
 
-Jeg kan godt lide:
+[![Billede af mig](../saraprofil.jpg)
 
-* Katte
-* Ben&Jerrys is
-* Lise
-* Mor og far
+##### Jeg:
+
+* er 25 år
+* bor i Jelling hjhj
+* har fotograferet i 6 år
+<!--[very good|512x397,100%] 440 × 584 -->

@@ -1,14 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "http://lisemoxolll.dk/kea/portfolio"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "cocoa"
+title = "Home"
+theme = "Ananke"
 
 
-[[menu.main]]
-name               	= "Home"
-weight             	= 1
-identifier         	= "home"
-url                	= "/"
+
 
 [[menu.main]]
 name               	= "Om"
@@ -21,12 +17,6 @@ name               	= "Kontakt"
 weight             	= 3
 identifier         	= "kontakt"
 url                	= "/kontakt/"
-
-[[menu.main]]
-name               	= "Blog"
-weight             	= 4
-identifier         	= "blog"
-url                	= "/blog/"
 
 [[menu.main]]
 name               	= "Portfolio"
