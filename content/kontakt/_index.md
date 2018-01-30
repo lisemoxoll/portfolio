@@ -6,4 +6,11 @@ draft: true
 
 [![Flot fyr](../minvej.jpeg)](http://www.lisemoxolll.dk)
 
+<form action="https://formspree.io/lisemoxoll@hotmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
+
 
